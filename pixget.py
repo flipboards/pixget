@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
 # this file contains basic information about downloading pictures.
 # it can save the corresponding picture when gets pixid.
